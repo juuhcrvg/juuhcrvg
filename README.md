@@ -12,7 +12,7 @@
 
 ### 
 
-<p align="left">💻 Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou explorando o mundo da programação e buscando aprimorar minhas habilidades em desenvolvimento de software. <br>Neste espaço, você encontrará alguns dos meus projetos, desde os mais básicos até aqueles que representam desafios maiores. Estou sempre aberto a aprender coisas novas e colaborar em projetos interessantes.📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas 3° período <br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript  <br><br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+<p align="left">💻 Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou explorando o mundo da programação e buscando aprimorar minhas habilidades em desenvolvimento de software. <br>Neste espaço, você encontrará alguns dos meus projetos, desde os mais básicos até aqueles que representam desafios maiores. Estou sempre aberto a aprender coisas novas e colaborar em projetos interessantes. <br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas 3° período <br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript  <br><br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
 
