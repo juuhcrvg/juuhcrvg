@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Juliana Marques tenho 31 anos , moro em Manaus-AM ♥</h3>
+<h3 align="left">Meu nome é Juliana Marques, moro em Manaus-AM ♥</h3>
 
 ###
 
